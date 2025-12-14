@@ -12,7 +12,7 @@ The project demonstrates how raw transactional data is cleaned, structured, and 
 ### Data Model (Star Schema)
 The project uses a **Star Schema** to support efficient analytics and reporting. A central fact table is connected to multiple dimension tables, enabling simplified queries and scalable analysis.
 
-<img width="761" height="628" alt="image" src="https://github.com/user-attachments/assets/ccf343ea-7f88-4e7b-99f9-239adb616232" />
+![Swiggy Star Schema](https://github.com/user-attachments/assets/9334f424-4a98-481e-a5f6-f5e1184bf431)
 
 
 **Fact Table:**
