@@ -7,8 +7,10 @@ The project demonstrates how raw transactional data is cleaned, structured, and 
 **Skills Demonstrated:**
 
 * Data Cleaning & Validation · Deduplication · Star Schema Modeling · KPI Development · Business Analysis · Window Functions
----
 
+> *"**Note:** Review the logic behind the validation checks, deduplication strategies, and complex joins in the **[Technical SQL Walkthrough](SQL_WALKTHROUGH.md)**."*
+
+---
 ### Data Model (Star Schema)
 The project uses a **Star Schema** to support efficient analytics and reporting. A central fact table is connected to multiple dimension tables, enabling simplified queries and scalable analysis.
 
@@ -106,4 +108,12 @@ The cleaned and modeled data were analyzed to derive the following insights:
 * Learned the importance of data quality before KPI analysis.
 * Applied industry-style data modeling for scalable analysis.
 * Focused on answering business questions, not just writing queries.
-```
+---
+## 🤝 Connect with Me
+I am currently **Open to Work** and actively seeking full-time **Data Analyst** opportunities. If you are looking for someone who can transform raw data into actionable insights, I would love to chat!
+
+* 💼 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/firdaus-parvez/)
+* 📧 **Email:** [firdaus.parvez290@gmail.com](mailto:firdaus.parvez290@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaus-parvez/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdaus.parvez290@gmail.com)
